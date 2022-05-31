@@ -1,0 +1,1 @@
+find -regex ".*/*-" -exec rm {} + -o -regex  ".*/#.*#" -exec rm {} +
